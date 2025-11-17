@@ -39,6 +39,8 @@ public class App {
                 System.out.println(error.getMessage());
             }
         }
-
+        System.out
+                .println(
+                        "O TRY CATCH tratou dos parametros e erros e conseguiu prosseguir com a operaçõa do codig, sem trvar com toda a estrutura .");
     }
 }
